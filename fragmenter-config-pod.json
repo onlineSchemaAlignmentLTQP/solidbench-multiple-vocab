@@ -478,7 +478,7 @@
     "sinks": [
       {
         "@type": "QuadSinkAnnotateFile",
-        "annotation": "<$> <https://semanticmapping.org/vocab#> <{}/ruleSet> .",
+        "annotation": "<$> <https://semanticmapping.org/vocab#ruleSetLocation> <{}/ruleSet> .",
         "iriPatterns": [
           "^(.*\\/pods\\/[0-9]+)"
         ],

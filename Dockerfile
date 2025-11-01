@@ -12,9 +12,6 @@ RUN corepack enable && corepack prepare yarn@stable --activate
 # Copy all files
 COPY . .
 
-# Configure git to trust this directory
-RUN git config --global --add safe.directory /app
-
 # Initialize and update git submodules
 RUN git submodule update --init --recursive
 
