@@ -4,10 +4,9 @@ A SolidBench instance configured to work with multiple vocabularies for testing 
 
 ## Prerequisites
 
-- Node.js 20+
-- Yarn (enabled via corepack)
-- Docker (for containerized deployment)
-- Git (for submodule management)
+- [Node.js 20](https://nodejs.org/en/download)
+- [Yarn](https://yarnpkg.com/getting-started/install)
+- [Docker](https://docs.docker.com/engine/install/)
 
 ## Local Development
 
