@@ -1,6 +1,6 @@
 # SolidBench Multiple Vocabulary
 
-A SolidBench instance configured to work with multiple vocabularies for testing and development.
+A SolidBench instance configured to work with multiple vocabularies.
 
 ## Prerequisites
 
