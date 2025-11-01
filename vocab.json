@@ -1,0 +1,608 @@
+{
+  "rules": [
+    [],
+    [
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/id",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/id",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/content",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/content",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/length",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/length",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/2.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      }
+    ],
+    [
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/female",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "female", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/male",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "male", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q698",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Firefox", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://dbpedia.org/resource/Firefox",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://www.wikidata.org/entity/Q698",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q1575",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Internet Explorer", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://dbpedia.org/resource/Internet_Explorer",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://www.wikidata.org/entity/Q1575",
+          "termType": "NamedNode"
+        }
+      },
+
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q777",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Chrome", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://dbpedia.org/resource/Google_Chrome",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#equivalentClass",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://www.wikidata.org/entity/Q777",
+          "termType": "NamedNode"
+        }
+      }
+    ],
+    [
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/id",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/id",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/content",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/content",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/length",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/length",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/3.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#exactMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      }
+    ],
+    [
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/id",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/id",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/creationDate",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/locationIP",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/browserUsed",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/content",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/content",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/length",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/length",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/replyOf",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/isLocatedIn",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/imageFile",
+          "termType": "NamedNode"
+        }
+      },
+      {
+        "premise": {
+          "value": "https://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2002/07/owl#sameAs",
+          "termType": "NamedNode"
+        },
+        "conclusion": {
+          "value": "http://localhost:4099/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/hasCreator",
+          "termType": "NamedNode"
+        }
+      }
+    ],
+    [
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q698",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Firefox", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q1575",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Internet Explorer", "termType": "Literal" }
+      },
+      {
+        "premise": {
+          "value": "http://www.wikidata.org/entity/Q777",
+          "termType": "NamedNode"
+        },
+        "inference": {
+          "value": "http://www.w3.org/2004/02/skos/core#closeMatch",
+          "termType": "NamedNode"
+        },
+        "conclusion": { "value": "Chrome", "termType": "Literal" }
+      }
+    ]
+  ]
+}
