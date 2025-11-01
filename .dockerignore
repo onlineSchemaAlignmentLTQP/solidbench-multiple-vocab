@@ -14,6 +14,3 @@ out-*
 .pnp.*
 node_modules
 componentsjs-error-state.json
-
-
-rdf-dataset-fragmenter.js
